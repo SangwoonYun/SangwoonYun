@@ -1,4 +1,4 @@
-### Sangwoon Yun   
+# Sangwoon Yun   
 
 <div align=right>
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/SangwoonYun">
@@ -11,9 +11,20 @@
   <a href="https://www.instagram.com/sangwoon.yun"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/sangwoon.yun" alt="Facebook Badge"></a>
 </div>
 
+### Who am I
+* Living in Ansan, Republic of Korea
+* Master's course student at Hanyang University
+* Department of Applied Artificial Intelligence
+* Major in Bio Artificial Intelligence
+* Cyber Physical System Laboratory
+
+### Interested in
+* Cyber Physical System
+* Linux System
+* Real-time System
 
 <div align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=SangwoonYun" alt="GitHub stats"></a>
-  <br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SangwoonYun&layout=compact" alt="Top Langs"></a>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=SangwoonYun" alt="GitHub stats"></a>
 </div>
