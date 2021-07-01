@@ -16,7 +16,7 @@
 * Master's course student at Hanyang University
 * Department of Applied Artificial Intelligence
 * Major in Bio Artificial Intelligence
-* Cyber Physical System Laboratory
+* Researcher in the Cyber Physical System Laboratory
 
 ### Interested in
 * Cyber Physical System
