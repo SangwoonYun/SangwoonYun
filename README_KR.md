@@ -12,6 +12,7 @@
   <br>
   <a href="https://www.facebook.com/dbstkddns4"><img src="https://img.shields.io/badge/facebook-1877F2?style=flat-square&amp;logo=facebook&amp;logoColor=white&amp;link=https://www.facebook.com/dbstkddns4" alt="Facebook Badge"></a>
   <a href="https://www.instagram.com/sangwoon.yun"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/sangwoon.yun" alt="Instagram Badge"></a>
+  <a href="https://www.youtube.com/channel/UC7fR1LlhO84ZML_fvPElTjQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&amp;logo=YouTube&amp;logoColor=white&amp;link=https://www.youtube.com/channel/UC7fR1LlhO84ZML_fvPElTjQ" alt="YouTube Badge"></a>
   <br>
   <a href="/README.md">영어(EN)</a>
 </div>
