@@ -19,9 +19,8 @@
 
 ### Who am I
 * Living in Ansan, Republic of Korea
-* Master's course student at Hanyang University
-* Department of Applied Artificial Intelligence
-* Major in Bio Artificial Intelligence
+* Doctoral course student at Hanyang University
+* Department of Computer Science & Engineering
 * Researcher in the Cyber Physical System Laboratory
 
 ### Interested in
