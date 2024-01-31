@@ -10,6 +10,7 @@ set tabstop=4
 set expandtab
 set autoindent
 set cindent
+set mouse=a
 
 " Syntax Highlighting
 if has("syntax")
